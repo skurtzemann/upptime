@@ -6,8 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Blog
+    url: https://kurtzemann.fr/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
