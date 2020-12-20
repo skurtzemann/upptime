@@ -17,6 +17,8 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: 
   navbar:
+    - title: Blog
+      href: https://kurtzemann.fr
     - title: Status
       href: https://status.kurtzemann.fr
     - title: GitHub
