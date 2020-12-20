@@ -10,31 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 60,
-    "timeDay": 60,
-    "timeWeek": 60,
-    "timeMonth": 60,
-    "timeYear": 60,
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "secret-site",
-    "status": "down",
+    "name": "Blog",
+    "url": "https://kurtzemann.fr/",
+    "icon": "https://favicons.githubusercontent.com/kurtzemann.fr",
+    "slug": "blog",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2020-12-20": 1
-    }
+    "time": 1457,
+    "timeDay": 1457,
+    "timeWeek": 1457,
+    "timeMonth": 1457,
+    "timeYear": 1457,
+    "dailyMinutesDown": {}
   }
 ]
