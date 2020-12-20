@@ -18,7 +18,7 @@ status-website:
   introMessage: 
   navbar:
     - title: Status
-      href: /upptime
+      href: https://status.kurtzemann.fr
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
