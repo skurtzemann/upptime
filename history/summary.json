@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/kurtzemann.fr",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.83%",
-    "time": 642,
-    "timeDay": 497,
-    "timeWeek": 538,
+    "uptimeYear": "99.84%",
+    "time": 639,
+    "timeDay": 482,
+    "timeWeek": 522,
     "timeMonth": 683,
-    "timeYear": 642,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2021-01-24": 140
     }
