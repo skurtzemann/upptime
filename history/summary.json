@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kurtzemann.fr.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
-    "timeDay": 371,
-    "timeWeek": 580,
-    "timeMonth": 519,
-    "timeYear": 509,
+    "timeDay": 372,
+    "timeWeek": 566,
+    "timeMonth": 518,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   }
 ]
