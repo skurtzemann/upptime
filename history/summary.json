@@ -4,7 +4,7 @@
     "url": "https://kurtzemann.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/kurtzemann.fr.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 458,
     "timeYear": 463,
     "dailyMinutesDown": {
+      "2023-12-24": 0,
       "2023-12-03": 18,
       "2023-08-28": 35
     }
