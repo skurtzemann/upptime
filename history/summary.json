@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kurtzemann.fr.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "49.16%",
+    "uptimeWeek": "92.74%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "99.86%",
     "time": 490,
-    "timeDay": 979,
-    "timeWeek": 727,
-    "timeMonth": 594,
+    "timeDay": 0,
+    "timeWeek": 755,
+    "timeMonth": 599,
     "timeYear": 491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-07": 303,
+      "2026-10-06": 429
+    }
   }
 ]
